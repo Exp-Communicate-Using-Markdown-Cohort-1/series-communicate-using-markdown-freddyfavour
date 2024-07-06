@@ -1,3 +1,9 @@
-# Devs of Yaktocat
+# Devs of Yaktocat Espionage
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat Espionage](https://images.spiceworks.com/800x400/wp-content/uploads/2024/06/04035510/Cyber-Espionage.jpg)
+
+```
+$ npm install Devs-Of-Yaktocat-CyberSpies
+!nstalling spies to infiltrate FBI's security
+-----------------------------------------99%
+```
