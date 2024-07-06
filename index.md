@@ -7,3 +7,7 @@ $ npm install Devs-Of-Yaktocat-CyberSpies
 !nstalling spies to infiltrate FBI's security
 -----------------------------------------99%
 ```
+
+- [x] Login to espionage software using one-time everchanging super secret password
+- [x] Download the real espionage software from the fake espionage software using the combinations that only espionages know
+- [ ] Hack the espionage software and make a name for yourself in the global spies system
